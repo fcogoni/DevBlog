@@ -13,5 +13,6 @@ app/resources/tmp/cache/templates/*.php
 app/config/bootstrap/connections.php
 app/resources/g11n/empty
 app/resources/tmp/cache/templates/empty
+app/resources/tmp/cache/empty
 app/resources/tmp/logs/empty
 app/resources/tmp/tests/empty
