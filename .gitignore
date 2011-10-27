@@ -1,0 +1,17 @@
+# Lines starting with '#' are considered comments.
+# Ignore any file named foo.txt.
+#foo.txt
+# Ignore (generated) html files,
+#*.html
+# except foo.html which is maintained by hand.
+#!foo.html
+# Ignore objects and archives.
+#*.[oa]
+
+
+app/resources/tmp/cache/templates/*.php
+app/config/bootstrap/connections.php
+app/resources/g11n/empty
+app/resources/tmp/cache/templates/empty
+app/resources/tmp/logs/empty
+app/resources/tmp/tests/empty
